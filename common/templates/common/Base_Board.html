@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+{% if user.is_authenticated %}
+{% load static %}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% block link_area %}{% endblock %}
+    <link rel="stylesheet" href="{% static 'common/css/Base_Board.css' %}" media="screen">
+
+    <title>{% block head_title %}{% endblock %}</title>
+</head>
+
+<body>
+    <div class="header_container">
+        {% include "common\header.html" %}
+    </div>
+    
+    <div class="main_container">
+        <div class="menu_container">
+            {% include "common\menu.html" with menu_items=menu_item %}
+        </div>
+        <div class="content_container">
+        {% block contents %}{% endblock  %}
+        </div>
+    </div>
+    <div class="footer_container">
+        {% include "common\footer.html" %}
+    </div>
+</body>
+
+
+{% block script_area %}{% endblock %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="{% static 'common/js/Base_Board.js' %}"></script>
+</html>
+
+{% else %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        alert('로그인해주시기 바랍니다.');  
+        window.location.href = '/';  // 로그인 페이지로 리다이렉트할 경우
+    });
+</script>
+{% endif %}

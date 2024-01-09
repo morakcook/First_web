@@ -1,0 +1,31 @@
+{% extends "common/Base_Board.html" %}
+{% load static %}
+{% block link_area %}
+<link rel="stylesheet" href="{% static 'single_pages/css/Bs/Bs_Artist.css' %}" media="screen">
+{% endblock %}
+{% block head_title %}{{ menu_text|safe }}{% endblock %}
+
+{% block contents %}
+{% for artist, htmls in datas.items %}
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<div class="card-holder">
+  <div class="card main-card">
+    <div class="card-body">
+      <div class="text">
+        <div>
+          <h4>{{artist}}</h4>
+        </div>
+        <div>
+            {{htmls|safe}}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+{% endblock contents %}
+{% block script_area %}
+<script src="{% static 'single_pages/js/Bs/Bs_Artist.js' %}"></script>
+{% endblock %}

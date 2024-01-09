@@ -1,0 +1,52 @@
+.card-holder{
+    position:relative;
+  /*   transition:.5s ,height 0s,width 0; */
+  }
+  .card {
+    border: none;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 24px 0 rgb(34 41 47 / 10%);
+    transition: all 0.3s ease-in-out, background 0s, color 0s, border-color 0s,height 0s,width 0s;
+  }
+  
+  .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(34, 41, 47, 0.125);
+    border-radius: 0.428rem;
+  }
+  
+  .card-body {
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+  }
+  .text {
+    padding: 10px 40px;
+  }
+  p,
+  h4 {
+    margin: 0px;
+  }
+  .hidden-card {
+    background: blue;
+    height: 94px;
+    width: 589px;
+    position: absolute;
+    top: 0;
+    z-index:1;
+  }
+  .main-card{
+    z-index:2;
+  }
+  .hidden-card p{
+  padding:20px 10px;
+  }
+  .main-card:hover ~ .hidden-card{
+    top:90%;
+  }

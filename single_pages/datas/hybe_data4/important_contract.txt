@@ -1,0 +1,194 @@
+주요계약 및 연구개발활동</a></p>
+<p><br/></p>
+<p style="font-weight:bold;">가. 람다256(주) 지분 인수 계약</p>
+<table border="1" width="609">
+<colgroup>
+<col width="194"/>
+<col width="415"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="CENTER" height="20" style="background-color:#D7D7D7;" valign="TOP" width="194">
+<p>구분</p>
+</td>
+<td align="CENTER" height="20" style="background-color:#D7D7D7;" valign="TOP" width="415">
+<p>세부내용</p>
+</td>
+</tr>
+<tr>
+<td height="20" valign="TOP" width="194">
+<p>계약상대방</p>
+</td>
+<td height="20" valign="TOP" width="415">
+<p>람다256(주)</p>
+</td>
+</tr>
+<tr>
+<td height="20" valign="TOP" width="194">
+<p>계약의 목적</p>
+</td>
+<td height="20" valign="TOP" width="415">
+<p>람다256(주) 주식 취득 </p>
+</td>
+</tr>
+<tr>
+<td height="66" valign="TOP" width="194">
+<p>계약 내용</p>
+</td>
+<td height="66" valign="TOP" width="415">
+<p>당사는 블록체인 기술업체인  람다256(주)와 2022년 2월 8일에 총 금100억원 상당 람다256(주) 발행 전환우선주를 인수하는 계약을 체결하여 상대회사에 대한 투자를 하였습니다. </p>
+</td>
+</tr>
+<tr>
+<td height="20" valign="TOP" width="194">
+<p>계약체결 시기</p>
+</td>
+<td height="20" valign="TOP" width="415">
+<p>2022년 2월 8일</p>
+</td>
+</tr>
+<tr>
+<td height="20" valign="TOP" width="194">
+<p>계약금액 및 대금수수 방법</p>
+</td>
+<td height="20" valign="TOP" width="415">
+<p>금100억원 전액 현금으로 납입 완료</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="font-weight:bold;"><br/></p>
+<p style="font-weight:bold;">나. 케이크(주)-(주)하이브에듀 흡수합병 계약</p>
+<table border="1" width="611">
+<colgroup>
+<col width="195"/>
+<col width="416"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="CENTER" height="20" style="background-color:#D7D7D7;" width="195">구분</td>
+<td align="CENTER" height="20" style="background-color:#D7D7D7;" width="416">세부내용</td>
+</tr>
+<tr>
+<td height="20" width="195">계약상대방</td>
+<td align="CENTER" height="20" width="416">케이크(주)</td>
+</tr>
+<tr>
+<td height="66" width="195">계약의 목적</td>
+<td height="66" width="416">언어교육 플랫폼과 컨텐츠, 지식재산권 및 경영자원의 통합을 통한 시너지 효과를 창출하기 위하여 케이크(주)가 (주)하이브에듀를 흡수합병(합병기일 2022년 6월 1일)하였습니다. </td>
+</tr>
+<tr>
+<td height="66" width="195">계약 내용</td>
+<td height="66" width="416">- 존속회사: 케이크(주)<br/>- 소멸회사: (주)하이브에듀<br/>- 합병비율: 케이크(주):(주)하이브에듀 = 1:0.3333412</td>
+</tr>
+<tr>
+<td height="20" width="195">계약체결 시기</td>
+<td align="CENTER" height="20" width="416">-</td>
+</tr>
+<tr>
+<td height="20" width="195">계약금액 및 대금수수 방법</td>
+<td align="CENTER" height="20" width="416">-</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p style="font-weight:bold;">다. (주)수퍼톤 지분 추가 인수 계약 </p>
+<table border="1" width="610">
+<colgroup>
+<col width="194"/>
+<col width="416"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="CENTER" height="20" style="background-color:#D7D7D7;" width="194">
+<p>구분</p>
+</td>
+<td align="CENTER" height="20" style="background-color:#D7D7D7;" width="416">
+<p>세부 내용</p>
+</td>
+</tr>
+<tr>
+<td height="20" width="194">
+<p>계약상대방</p>
+</td>
+<td height="20" width="416">
+<p>(주)수퍼톤</p>
+</td>
+</tr>
+<tr>
+<td height="66" width="194">
+<p>계약의 목적</p>
+</td>
+<td height="66" width="416">하이브와의 연구 시너지를 강화하고 오디오 콘텐츠 시장을 선도하는 음성 AI 원천 기술을 확보하기 위하여 (주)하이브가 (주)수퍼톤에 대한 지분을 추가 취득하였습니다.</td>
+</tr>
+<tr>
+<td height="66" width="194">
+<p>계약 내용</p>
+</td>
+<td height="66" width="416">(주)수퍼톤의 보통주식 구주 51,984주를 인수하고 신주 46,360주를 발행하는 계약을 체결하였습니다. 2023년 1월에 추가 신주 46,360주 발행 예정입니다.</td>
+</tr>
+<tr>
+<td height="20" width="194">
+<p>계약체결 시기</p>
+</td>
+<td height="20" width="416">2022. 7. 1.</td>
+</tr>
+<tr>
+<td height="43" width="194">
+<p>계약금액 및 대금 수수 방법</p>
+</td>
+<td height="43" width="416">구주인수 및 신주발행 대금 약 449억원을 전액 현금 지급하였습니다.</td>
+</tr>
+</tbody>
+</table>
+<p style="font-weight:bold;"><br/>라. (주)플린트 업무협약 체결 </p>
+<table border="1" width="611">
+<colgroup>
+<col width="194"/>
+<col width="417"/>
+</colgroup>
+<tbody>
+<tr>
+<td align="CENTER" height="20" style="background-color:#D7D7D7;" width="194">
+<p>구분</p>
+</td>
+<td align="CENTER" height="20" style="background-color:#D7D7D7;" width="417">
+<p>세부 내용</p>
+</td>
+</tr>
+<tr>
+<td height="20" width="194">
+<p>계약상대방</p>
+</td>
+<td height="20" width="417">
+<p>(주)플린트</p>
+</td>
+</tr>
+<tr>
+<td height="66" width="194">
+<p>계약의 목적</p>
+</td>
+<td height="66" width="417">(주)플린트가 개발 중인 게임 '별이되어라2'에 대해 퍼블리싱 협력 관계를 강화하기 위하여 (주)하이브가 (주)플린트의 지분을 취득하였습니다.</td>
+</tr>
+<tr>
+<td height="66" width="194">
+<p>계약 내용</p>
+</td>
+<td height="66" width="417">(주)플린트의 보통주식 구주 3,810주를 매수하고, 보통주식 신주 4,914주를 발행하는 계약을 양일에 걸쳐 각 체결하였습니다.</td>
+</tr>
+<tr>
+<td height="20" width="194">
+<p>계약체결 시기</p>
+</td>
+<td height="20" width="417">2022.11.15-2022.11.16.</td>
+</tr>
+<tr>
+<td height="66" width="194">
+<p>계약금액 및 대금 수수 방법</p>
+</td>
+<td height="66" width="417">당사는 주식회사 플린트의 구주 매수와 신주 발행을 포함하여 총 97억원을 투자하였으며, 전액 현금으로 지급하였습니다.</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p><span style="font-weight:bold;">

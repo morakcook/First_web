@@ -1,0 +1,18 @@
+{% extends "common/Base_Board.html" %}
+{% load static %}
+{% block link_area %}
+<link rel="stylesheet" href="{% static 'single_pages/css/Is/common/common.css' %}" media="screen">
+{% endblock %}
+{% block head_title %}{{ menu_text|safe }}{% endblock %}
+
+{% block contents %}
+<canvas class='chart_area' id="myChart" width="400" height="400"></canvas>
+{% endblock contents %}
+{% block script_area %}
+<script>
+    var chart_title = "{{ menu_text|safe }}"
+    var labels = {{ datas.0|safe }}
+    var datas = {{ datas.1|safe }}
+</script>
+<script src="{% static 'single_pages/js/Is/common/bar_chart.js' %}"></script>
+{% endblock %}

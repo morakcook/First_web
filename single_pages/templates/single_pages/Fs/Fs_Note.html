@@ -1,0 +1,31 @@
+{% extends "common/Base_Board.html" %}
+{% load static %}
+{% block link_area %}
+<link rel="stylesheet" href="{% static 'single_pages/css/Fs/Fs_Note.css' %}" media="screen">
+{% endblock %}
+{% block head_title %}{{ menu_text|safe }}{% endblock %}
+
+{% block contents %}
+<div class='note_text'>
+    <h1>{{ menu_text|safe }}</h1>
+</div>
+<div class='note_container'>
+    <h2>1. {{ menu_text|safe }} GPT요약본</h2>
+    <br/>
+    <div class='note_space' id='note_space'>
+        {% for data in datas %}
+            <div class="note-item">{{data}}</div>
+        {% endfor %}
+    </div>
+    <h2>2. {{ menu_text|safe }} 원본</h2>
+    <br/>
+    <div class='ori_note_space' id='ori_note_space'>
+        <iframe src="{% static 'single_pages\images\output.pdf' %}" id='ori_note'></iframe>
+    </div>
+</div>
+
+
+{% endblock contents %}
+{% block script_area %}
+<script src="{% static 'single_pages/js/Fs/Fs_Note.js' %}"></script>
+{% endblock %}

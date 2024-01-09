@@ -1,0 +1,36 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+.header_container{
+    width: 100%;
+    height: fit-content;
+}
+.main_container {
+    display: flex;
+    height: 100vh; /* 100% 높이 설정 */
+}
+
+.menu_container {
+    /* background: lightblue; */
+    overflow: hidden; /* 필요에 따라 스크롤이 필요한 경우 overflow: scroll;로 변경 */
+    width: fit-content;
+}
+
+.content_container {
+    flex: auto;
+    height: 100%;
+    overflow: scroll;
+
+}
+.footer_container{
+    display: flex;
+    width: 100%;
+    height: fit-content;
+}

@@ -1,0 +1,29 @@
+.note_text{
+    margin: 3%;
+}
+.note_container{
+    margin: 3%;
+    
+}
+.note_space{
+    display: inline-block;
+    overflow: auto;
+    width: fit-content;
+    height: 500px;
+    border: 1px solid #000;
+}
+.note-item{
+    margin: 10px;
+}
+
+.ori_note_space{
+    display: inline-block;
+    overflow: auto;
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid #000;
+}
+#ori_note{
+    width: 1000px;
+    height: 1000px;
+}

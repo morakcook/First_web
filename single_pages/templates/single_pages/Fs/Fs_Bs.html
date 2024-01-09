@@ -1,0 +1,36 @@
+{% extends "common/Base_Board.html" %}
+{% load humanize %}
+{% load static %}
+{% block link_area %}
+<link rel="stylesheet" href="{% static 'single_pages/css/Fs/Fs_Bs.css' %}" media="screen">
+{% endblock %}
+
+{% block head_title %}{{ menu_text|safe }}{% endblock %}
+
+{% block contents %}
+<div class='table_text'>
+    <h1>{{ menu_text|safe }}</h1>
+</div>
+
+<div class='table_area'>
+    <table class='main'>
+        <thead class='head'>
+            <td></td>
+            {% for data in datas.0 %}
+            <td>{{data}}</td>
+            {% endfor %}
+        </thead>
+        <tbody>
+            {% for data_label, data_value in datas.1.items %}
+            <tr>
+                <td> {{data_label}} </td>
+                <td> {{data_value.0|floatformat:2|intcomma }} </td>
+                <td> {{data_value.1|floatformat:2|intcomma }} </td>
+                <td> {{data_value.2|floatformat:2|intcomma }} </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% endblock contents %}

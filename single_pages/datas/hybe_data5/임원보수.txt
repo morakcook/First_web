@@ -1,0 +1,1392 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html style="border:0">
+<head>
+<title></title>
+<meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+<meta content="gdi" http-equiv="X-UA-TextLayoutMetrics"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="/css/report_xml.css" rel="stylesheet" type="text/css"/>
+</head>
+<body bgcolor="#FFFFFF">
+<p><br/></p>
+<p class="section-2"><a name="toc1">2. 임원의 보수 등</a></p>
+<p><span style="font-weight:bold;">가. 이사ㆍ감사 전체의 보수현황</span><br/>
+</p>
+<table class="nb" width="600">
+<colgroup>
+<col width="600"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="TOP" width="600">&lt;이사ㆍ감사 전체의 보수현황&gt;</td>
+</tr>
+</tbody>
+</table>
+<p>(1) 주주총회 승인금액</p>
+<table class="nb" width="602">
+<colgroup>
+<col width="300"/>
+<col width="302"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="BOTTOM" width="300"><br/></td>
+<td align="RIGHT" height="20" valign="BOTTOM" width="302">(단위 : 백만원)</td>
+</tr>
+</tbody>
+</table>
+<table border="1" width="602">
+<colgroup>
+<col width="178"/>
+<col width="87"/>
+<col width="208"/>
+<col width="129"/>
+</colgroup>
+<thead>
+<tr>
+<th align="CENTER" height="20" width="178">구 분</th>
+<th align="CENTER" height="20" width="87">인원수</th>
+<th align="CENTER" height="20" width="208">주주총회 승인금액</th>
+<th align="CENTER" height="20" width="129">비고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="CENTER" height="43" width="178">등기이사<br/>(사외이사 포함)</td>
+<td align="RIGHT" height="43" width="87">9</td>
+<td align="RIGHT" height="43" width="208">7,000</td>
+<td align="CENTER" height="43" width="129">-</td>
+</tr>
+</tbody>
+</table>
+<table class="nb" width="604">
+<colgroup>
+<col width="49"/>
+<col width="555"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="TOP" width="49">주1)</td>
+<td height="20" width="555">인원수는 제17기 정기주주총회 승인 당시 기준입니다.</td>
+</tr>
+<tr>
+<td height="66" valign="TOP" width="49">주2)</td>
+<td height="66" width="555">당사는 정관 제39조에 따라 주주총회의 결의로 정한 별도의 임원퇴직금 지급 규정에 근거하여 이사의 퇴직금을 지급하고 있으므로 상기 주주총회 승인 보수 한도에는 퇴직금이 포함되어 있지 않습니다.</td>
+</tr>
+</tbody>
+</table>
+<p><br/><br/></p>
+<p>(2) 보수지급금액 총액</p>
+<table class="nb" width="602">
+<colgroup>
+<col width="300"/>
+<col width="302"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="BOTTOM" width="300"><br/></td>
+<td align="RIGHT" height="20" valign="BOTTOM" width="302">(단위 : 백만원)</td>
+</tr>
+</tbody>
+</table>
+<table border="1" width="602">
+<colgroup>
+<col width="151"/>
+<col width="151"/>
+<col width="150"/>
+<col width="150"/>
+</colgroup>
+<thead>
+<tr>
+<th align="CENTER" height="20" width="151">인원수</th>
+<th align="CENTER" height="20" width="151">보수총액</th>
+<th align="CENTER" height="20" width="150">1인당 평균보수액</th>
+<th align="CENTER" height="20" width="150">비고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="RIGHT" height="20" width="151">7</td>
+<td align="RIGHT" height="20" width="151">1,367</td>
+<td align="RIGHT" height="20" width="150">210</td>
+<td align="CENTER" height="20" width="150">-</td>
+</tr>
+</tbody>
+</table>
+<table class="nb" width="604">
+<colgroup>
+<col width="49"/>
+<col width="555"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="43" valign="TOP" width="49">주1)</td>
+<td height="43" width="555">기타비상무이사 1인에 대해서는 보수가 지급되지 않으며, 상기 인원수 및 1인당 평균보수액은 보수가 지급되는 이사를 기준으로 작성하였습니다.</td>
+</tr>
+<tr>
+<td height="66" valign="TOP" width="49">주2)</td>
+<td height="66" width="555">등기임원(사외이사제외) 3인 중 1인에 대해서는 하이브에서 보수가 지급되지 않으며, 상기 인원수 및 1인당 평균보수액은 보수가 지급되는 이사를 기준으로 작성하였습니다. </td>
+</tr>
+<tr>
+<td height="66" valign="TOP" width="49">주3)</td>
+<td height="66" width="555">보수총액은 자본시장과 금융투자업에 관한 법률 제159조, 동법 시행령 제168조에 따라 당해 사업연도에 재임 또는 퇴임한 등기이사ㆍ사외이사ㆍ감사위원회 위원이 등기임원 자격으로 지급받은 소득세법상의 소득 금액입니다.</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>(3) 유형별 보수지급금액</p>
+<table class="nb" width="602">
+<colgroup>
+<col width="300"/>
+<col width="302"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="BOTTOM" width="300"><br/></td>
+<td align="RIGHT" height="20" valign="BOTTOM" width="302">(단위 : 백만원)</td>
+</tr>
+</tbody>
+</table>
+<table border="1" width="602">
+<colgroup>
+<col width="245"/>
+<col width="90"/>
+<col width="89"/>
+<col width="89"/>
+<col width="89"/>
+</colgroup>
+<thead>
+<tr>
+<th align="CENTER" height="43" width="245">구 분</th>
+<th align="CENTER" height="43" width="90">인원수</th>
+<th align="CENTER" height="43" width="89">보수총액</th>
+<th align="CENTER" height="43" width="89">1인당<br/>평균보수액</th>
+<th align="CENTER" height="43" width="89">비고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="CENTER" height="43" width="245">등기이사<br/>(사외이사, 감사위원회 위원 제외)</td>
+<td align="RIGHT" height="43" width="90">2</td>
+<td align="RIGHT" height="43" width="89">1,259</td>
+<td align="RIGHT" height="43" width="89">629</td>
+<td align="CENTER" height="43" width="89">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="43" width="245">사외이사<br/>(감사위원회 위원 제외)</td>
+<td align="RIGHT" height="43" width="90">2</td>
+<td align="RIGHT" height="43" width="89">36</td>
+<td align="RIGHT" height="43" width="89">24</td>
+<td align="CENTER" height="43" width="89">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="245">감사위원회 위원</td>
+<td align="RIGHT" height="20" width="90">3</td>
+<td align="RIGHT" height="20" width="89">72</td>
+<td align="RIGHT" height="20" width="89">24</td>
+<td align="CENTER" height="20" width="89">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="245">감사</td>
+<td align="RIGHT" height="20" width="90">-</td>
+<td align="RIGHT" height="20" width="89">-</td>
+<td align="RIGHT" height="20" width="89">-</td>
+<td align="CENTER" height="20" width="89">-</td>
+</tr>
+</tbody>
+</table>
+<table class="nb" width="604">
+<colgroup>
+<col width="49"/>
+<col width="555"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="43" valign="TOP" width="49">주1)</td>
+<td height="43" width="555">기타비상무이사 1인에 대해서는 보수가 지급되지 않으며, 상기 인원수 및 1인당 평균보수액은 보수가 지급되는 이사를 기준으로 작성하였습니다.</td>
+</tr>
+<tr>
+<td height="66" valign="TOP" width="49">주2)</td>
+<td height="66" width="555">등기임원(사외이사제외) 3인 중 1인에 대해서는 하이브에서 보수가 지급되지 않으며, 상기 인원수 및 1인당 평균보수액은 보수가 지급되는 이사를 기준으로 작성하였습니다. </td>
+</tr>
+<tr>
+<td height="66" valign="TOP" width="49">주3)</td>
+<td height="66" width="555">보수총액은 자본시장과 금융투자업에 관한 법률 제159조, 동법 시행령 제168조에 따라 당해 사업연도에 재임 또는 퇴임한 등기이사ㆍ사외이사ㆍ감사위원회 위원이 등기임원 자격으로 지급받은 소득세법상의 소득 금액입니다.</td>
+</tr>
+</tbody>
+</table>
+<p style="font-weight:bold;"><br/>나. 이사ㆍ감사의 개인별 보수현황<br/><br/></p>
+<table class="nb" width="600">
+<colgroup>
+<col width="600"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="TOP" width="600">&lt;보수지급금액 5억원 이상인 이사ㆍ감사의 개인별 보수현황&gt;</td>
+</tr>
+</tbody>
+</table>
+<p>1. 개인별 보수지급금액</p>
+<table class="nb" width="602">
+<colgroup>
+<col width="300"/>
+<col width="302"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="BOTTOM" width="300"><br/></td>
+<td align="RIGHT" height="20" valign="BOTTOM" width="302">(단위 : 백만원)</td>
+</tr>
+</tbody>
+</table>
+<table border="1" width="602">
+<colgroup>
+<col width="94"/>
+<col width="76"/>
+<col width="166"/>
+<col width="266"/>
+</colgroup>
+<thead>
+<tr>
+<th align="CENTER" height="20" width="94">이름</th>
+<th align="CENTER" height="20" width="76">직위</th>
+<th align="CENTER" height="20" width="166">보수총액</th>
+<th align="CENTER" height="20" width="266">보수총액에 포함되지 않는 보수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="CENTER" height="20" width="94">박지원</td>
+<td align="CENTER" height="20" width="76">대표이사</td>
+<td align="RIGHT" height="20" width="166">952</td>
+<td align="CENTER" height="20" width="266">주식매수선택권 부여</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>2. 산정기준 및 방법</p>
+<table class="nb" width="721">
+<colgroup>
+<col width="300"/>
+<col width="421"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="BOTTOM" width="300"><br/></td>
+<td align="RIGHT" height="20" valign="BOTTOM" width="421">(단위 : 백만원)</td>
+</tr>
+</tbody>
+</table>
+<table border="1" width="720">
+<colgroup>
+<col width="58"/>
+<col width="98"/>
+<col width="140"/>
+<col width="82"/>
+<col width="342"/>
+</colgroup>
+<thead>
+<tr>
+<th align="CENTER" height="20" width="58">이름</th>
+<th align="CENTER" colspan="2" height="20" width="238">보수의 종류</th>
+<th align="CENTER" height="20" width="82">총액</th>
+<th align="CENTER" height="20" width="342">산정기준 및 방법</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="CENTER" height="400" rowspan="6" width="58">박지원</td>
+<td align="CENTER" height="340" rowspan="4" width="98">근로소득</td>
+<td align="CENTER" height="112" width="140">급여</td>
+<td align="CENTER" height="112" width="82">500</td>
+<td align="CENTER" height="112" width="342">임원 보수규정에 따라 2022년 이사의 보수한도 내에서 개인의 수행 역할과 기여도, 전문성, 리더십 등을 종합적으로 고려하여 인사위원회에서 당해년도 연간 급여를 결정하여, 매월 균등 분할하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="135" width="140">상여</td>
+<td align="CENTER" height="135" width="82">450</td>
+<td align="CENTER" height="135" width="342">2021년 경영성과에 대한 재무/전략지표 평가 및 개별 역량에 대한 종합적인 평가에 근거하여 이사회의 승인을 통해 2022년에 지급된 성과상여금임. 경영전문성과 사업적 인사이트에 기반하여, 하이브의 경영 내실을 다지며 사업 모델을 고도화한 점을 고려하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="43" width="140">주식매수선택권<br/> 행사이익</td>
+<td align="CENTER" height="43" width="82">-</td>
+<td align="CENTER" height="43" width="342">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="140">기타 근로소득</td>
+<td align="CENTER" height="20" width="82">2</td>
+<td align="CENTER" height="20" width="342">복리후생 기준에 따름 </td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="238">퇴직소득</td>
+<td align="CENTER" height="20" width="82">-</td>
+<td align="CENTER" height="20" width="342">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="238">기타소득</td>
+<td align="CENTER" height="20" width="82">-</td>
+<td align="CENTER" height="20" width="342">해당 없음</td>
+</tr>
+</tbody>
+</table>
+<p style="font-weight:bold;"><br/>다. 보수지급금액 5억원 이상 중 상위 5명의 개인별 보수현황<br/><br/></p>
+<table class="nb" width="600">
+<colgroup>
+<col width="600"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="TOP" width="600">&lt;보수지급금액 5억원 이상 중 상위 5명의 개인별 보수현황&gt;</td>
+</tr>
+</tbody>
+</table>
+<p>1. 개인별 보수지급금액</p>
+<table class="nb" width="602">
+<colgroup>
+<col width="300"/>
+<col width="302"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="BOTTOM" width="300"><br/></td>
+<td align="RIGHT" height="20" valign="BOTTOM" width="302">(단위 : 백만원)</td>
+</tr>
+</tbody>
+</table>
+<table border="1" width="602">
+<colgroup>
+<col width="114"/>
+<col width="101"/>
+<col width="121"/>
+<col width="266"/>
+</colgroup>
+<thead>
+<tr>
+<th align="CENTER" height="20" width="114">이름</th>
+<th align="CENTER" height="20" width="101">직위</th>
+<th align="CENTER" height="20" width="121">보수총액</th>
+<th align="CENTER" height="20" width="266">보수총액에 포함되지 않는 보수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="CENTER" height="20" width="114">박지원</td>
+<td align="CENTER" height="20" width="101">대표이사</td>
+<td align="RIGHT" height="20" width="121">952</td>
+<td align="CENTER" height="20" width="266">주식매수선택권 부여</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="114">이경준</td>
+<td align="CENTER" height="20" width="101">CFO</td>
+<td align="RIGHT" height="20" width="121">776</td>
+<td align="CENTER" height="20" width="266">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="114">이진형</td>
+<td align="CENTER" height="20" width="101">CCO</td>
+<td align="RIGHT" height="20" width="121">671</td>
+<td align="CENTER" height="20" width="266">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="43" width="114">황보상우</td>
+<td align="CENTER" height="43" width="101">OSB본부 GM</td>
+<td align="RIGHT" height="43" width="121">624</td>
+<td align="CENTER" height="43" width="266">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="114">김태호</td>
+<td align="CENTER" height="20" width="101">COO</td>
+<td align="RIGHT" height="20" width="121">600</td>
+<td align="CENTER" height="20" width="266">-</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>2. 산정기준 및 방법</p>
+<table class="nb" width="671">
+<colgroup>
+<col width="300"/>
+<col width="371"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="BOTTOM" width="300"><br/></td>
+<td align="RIGHT" height="20" valign="BOTTOM" width="371">(단위 : 백만원)</td>
+</tr>
+</tbody>
+</table>
+<table border="1" width="672">
+<colgroup>
+<col width="73"/>
+<col width="92"/>
+<col width="115"/>
+<col width="110"/>
+<col width="282"/>
+</colgroup>
+<thead>
+<tr>
+<th align="CENTER" height="20" width="73">이름</th>
+<th align="CENTER" colspan="2" height="20" width="207">보수의 종류</th>
+<th align="CENTER" height="20" width="110">총액</th>
+<th align="CENTER" height="20" width="282">산정기준 및 방법</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="CENTER" height="446" rowspan="6" width="73">박지원</td>
+<td align="CENTER" height="386" rowspan="4" width="92">근로소득</td>
+<td align="CENTER" height="135" width="115">급여</td>
+<td align="RIGHT" height="135" width="110">500</td>
+<td align="CENTER" height="135" width="282">임원 보수규정에 따라 2022년 이사의 보수한도 내에서 개인의 수행 역할과 기여도, 전문성, 리더십 등을 종합적으로 고려하여 인사위원회에서 당해년도 연간 급여를 결정하여, 매월 균등 분할하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="158" width="115">상여</td>
+<td align="RIGHT" height="158" width="110">450</td>
+<td align="CENTER" height="158" width="282">2021년 경영성과에 대한 재무/전략지표 평가 및 개별 역량에 대한 종합적인 평가에 근거하여 이사회의 승인을 통해 2022년에 지급된 성과상여금임. 경영전문성과 사업적 인사이트에 기반하여, 하이브의 경영 내실을 다지며 사업 모델을 고도화한 점을 고려하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="43" width="115">주식매수선택권<br/> 행사이익</td>
+<td align="RIGHT" height="43" width="110">-</td>
+<td align="CENTER" height="43" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="115">기타 근로소득</td>
+<td align="RIGHT" height="20" width="110">2</td>
+<td align="CENTER" height="20" width="282">복리후생 기준에 따름</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="207">퇴직소득</td>
+<td align="RIGHT" height="20" width="110">-</td>
+<td align="CENTER" height="20" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="207">기타소득</td>
+<td align="RIGHT" height="20" width="110">-</td>
+<td align="CENTER" height="20" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" height="492" rowspan="6" width="73">이경준</td>
+<td align="CENTER" height="432" rowspan="4" width="92">근로소득</td>
+<td align="CENTER" height="135" width="115">급여</td>
+<td align="RIGHT" height="135" width="110">420</td>
+<td align="CENTER" height="135" width="282">임원 보수규정에 따라 2022년 이사의 보수한도 내에서 개인의 수행 역할과 기여도, 전문성, 리더십 등을 종합적으로 고려하여 인사위원회에서 당해년도 연간 급여를 결정하여, 매월 균등 분할하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="204" width="115">상여</td>
+<td align="RIGHT" height="204" width="110">351</td>
+<td align="CENTER" height="204" width="282">2021년 경영성과에 대한 재무/전략지표 평가 및 개별 역량에 대한 종합적인 평가에 근거하여 이사회의 승인을 통해 2022년에 지급된 성과상여금임. 전사 회계, 재무, 세무, 자금 업무 총괄자로서 재무결산 프로세스 효율화 및 거래 구도 개선 등을 통한 운영체계를 고도화하고, 재무적 안정성 및 건전성을 확보했다는 점을 고려하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="43" width="115">주식매수선택권<br/> 행사이익</td>
+<td align="RIGHT" height="43" width="110">-</td>
+<td align="CENTER" height="43" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="115">기타 근로소득</td>
+<td align="RIGHT" height="20" width="110">5</td>
+<td align="CENTER" height="20" width="282">복리후생 기준에 따름</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="207">퇴직소득</td>
+<td align="RIGHT" height="20" width="110">-</td>
+<td align="CENTER" height="20" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="207">기타소득</td>
+<td align="RIGHT" height="20" width="110">-</td>
+<td align="CENTER" height="20" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" height="469" rowspan="6" width="73">이진형</td>
+<td align="CENTER" height="409" rowspan="4" width="92">근로소득</td>
+<td align="CENTER" height="135" width="115">급여</td>
+<td align="RIGHT" height="135" width="110">317</td>
+<td align="CENTER" height="135" width="282">임원 보수규정에 따라 2022년 이사의 보수한도 내에서 개인의 수행 역할과 기여도, 전문성, 리더십 등을 종합적으로 고려하여 인사위원회에서 당해년도 연간 급여를 결정하여, 매월 균등 분할하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="181" width="115">상여</td>
+<td align="RIGHT" height="181" width="110">350</td>
+<td align="CENTER" height="181" width="282">2021년 경영성과에 대한 재무/전략지표 평가 및 개별 역량에 대한 종합적인 평가에 근거하여 이사회의 승인을 통해 2022년에 지급된 성과상여금임. 대내외 커뮤니케이션 총괄자로서 회사의 확장에 따른 리스크 관리 역량을 제고하고, 대내외 커뮤니케이션 및 프로모션을 확대했다는 점을 고려하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="43" width="115">주식매수선택권<br/> 행사이익</td>
+<td align="RIGHT" height="43" width="110">-</td>
+<td align="CENTER" height="43" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="115">기타 근로소득</td>
+<td align="RIGHT" height="20" width="110">4</td>
+<td align="CENTER" height="20" width="282">복리후생 기준에 따름</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="207">퇴직소득</td>
+<td align="RIGHT" height="20" width="110">-</td>
+<td align="CENTER" height="20" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="207">기타소득</td>
+<td align="RIGHT" height="20" width="110">-</td>
+<td align="CENTER" height="20" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" height="469" rowspan="6" width="73">황보상우</td>
+<td align="CENTER" height="409" rowspan="4" width="92">근로소득</td>
+<td align="CENTER" height="135" width="115">급여</td>
+<td align="RIGHT" height="135" width="110">250</td>
+<td align="CENTER" height="135" width="282">임원 보수규정에 따라 2022년 이사의 보수한도 내에서 개인의 수행 역할과 기여도, 전문성, 리더십 등을 종합적으로 고려하여 인사위원회에서 당해년도 연간 급여를 결정하여, 매월 균등 분할하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="181" width="115">상여</td>
+<td align="RIGHT" height="181" width="110">350</td>
+<td align="CENTER" height="181" width="282">2021년 경영성과에 대한 재무/전략지표 평가 및 개별 역량에 대한 종합적인 평가에 근거하여 이사회의 승인을 통해 2022년에 지급된 성과상여금임. OSB본부 총괄자로 제한된 리소스에도 불구하고 사업의 기틀을 만들고 협력사와의 긴밀한 협업을 통해 IP 확장에 기여한 성과를 고려하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="43" width="115">주식매수선택권<br/> 행사이익</td>
+<td align="RIGHT" height="43" width="110">-</td>
+<td align="CENTER" height="43" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="115">기타 근로소득</td>
+<td align="RIGHT" height="20" width="110">24</td>
+<td align="CENTER" height="20" width="282">복리후생 기준에 따름</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="207">퇴직소득</td>
+<td align="RIGHT" height="20" width="110">-</td>
+<td align="CENTER" height="20" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="207">기타소득</td>
+<td align="RIGHT" height="20" width="110">-</td>
+<td align="CENTER" height="20" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" height="538" rowspan="6" width="73">김태호</td>
+<td align="CENTER" height="478" rowspan="4" width="92">근로소득</td>
+<td align="CENTER" height="135" width="115">급여</td>
+<td align="RIGHT" height="135" width="110">274</td>
+<td align="CENTER" height="135" width="282">임원 보수규정에 따라 2022년 이사의 보수한도 내에서 개인의 수행 역할과 기여도, 전문성, 리더십 등을 종합적으로 고려하여 인사위원회에서 당해년도 연간 급여를 결정하여, 매월 균등 분할하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="250" width="115">상여</td>
+<td align="RIGHT" height="250" width="110">322</td>
+<td align="CENTER" height="250" width="282">2021년 경영성과에 대한 재무/전략지표 평가 및 개별 역량에 대한 종합적인 평가에 근거하여 이사회의 승인을 통해 2022년에 지급된 성과상여금임. 회사 오퍼레이션 총괄인 COO로서 다양한 영역을 커버하면서 각 조직의 의사결정과정을 효율적으로 조정하였으며, 특히 코로나로 인해 변동이 많은 환경속에서도 도메인 전체의 리소스를 효율적으로 배분하고 사업적 파이프라인을 유기적으로 연결한 성과를 고려하여 지급하였음</td>
+</tr>
+<tr>
+<td align="CENTER" height="43" width="115">주식매수선택권<br/> 행사이익</td>
+<td align="RIGHT" height="43" width="110">-</td>
+<td align="CENTER" height="43" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="115">기타 근로소득</td>
+<td align="RIGHT" height="20" width="110">4</td>
+<td align="CENTER" height="20" width="282">복리후생 기준에 따름</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="207">퇴직소득</td>
+<td align="RIGHT" height="20" width="110">-</td>
+<td align="CENTER" height="20" width="282">해당 없음</td>
+</tr>
+<tr>
+<td align="CENTER" colspan="2" height="20" width="207">기타소득</td>
+<td align="RIGHT" height="20" width="110">-</td>
+<td align="CENTER" height="20" width="282">해당 없음</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p style="font-weight:bold;">라. 주식매수선택권의 부여 및 행사현황 등<br/><br/></p>
+<p>(1) 임원에게 부여한 주식매수선택권의 공정가치</p>
+<table class="nb" width="602">
+<colgroup>
+<col width="300"/>
+<col width="302"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="BOTTOM" width="300"><br/></td>
+<td align="RIGHT" height="20" valign="BOTTOM" width="302">(단위 : 천원)</td>
+</tr>
+</tbody>
+</table>
+<table border="1" width="609">
+<colgroup>
+<col width="245"/>
+<col width="78"/>
+<col width="238"/>
+<col width="48"/>
+</colgroup>
+<thead>
+<tr>
+<th align="CENTER" height="43" width="245">구 분</th>
+<th align="CENTER" height="43" width="78">부여받은<br/>인원수</th>
+<th align="CENTER" height="43" width="238">주식매수선택권의 공정가치 총액</th>
+<th align="CENTER" height="43" width="48">비고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="CENTER" height="43" width="245">등기이사<br/>(사외이사, 감사위원회 위원 제외)</td>
+<td align="RIGHT" height="43" width="78">2</td>
+<td align="RIGHT" height="43" width="238">             4,648,530 </td>
+<td align="CENTER" height="43" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="43" width="245">사외이사<br/>(감사위원회 위원 제외)</td>
+<td align="RIGHT" height="43" width="78">2</td>
+<td align="RIGHT" height="43" width="238">                148,479 </td>
+<td align="CENTER" height="43" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="245">감사위원회 위원 또는 감사</td>
+<td align="RIGHT" height="20" width="78">3</td>
+<td align="RIGHT" height="20" width="238">                284,827 </td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="245">업무집행지시자 등</td>
+<td align="RIGHT" height="20" width="78">8</td>
+<td align="RIGHT" height="20" width="238">             4,072,117 </td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="245">계</td>
+<td align="RIGHT" height="20" width="78">15</td>
+<td align="RIGHT" height="20" width="238">             9,153,953 </td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+</tbody>
+</table>
+<table class="nb" width="604">
+<colgroup>
+<col width="604"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="43" valign="TOP" width="604">주) 상기 주식매수선택권의 공정가치 산출방법은 본 보고서의 'III. 재무에 관한 사항 - 5. 재무제표 주석 - 21. 주식기준보상' 부분을 참고하여 주시기 바랍니다. </td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p>(2) 주식매수선택권의 부여 및 행사현황 </p>
+<table class="nb" width="1431">
+<colgroup>
+<col width="80"/>
+<col width="152"/>
+<col width="153"/>
+<col width="1046"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="20" valign="BOTTOM" width="80">(기준일 : </td>
+<td align="CENTER" height="20" valign="BOTTOM" width="152">2022년 12월 31일</td>
+<td height="20" valign="BOTTOM" width="153">)</td>
+<td align="RIGHT" height="20" valign="BOTTOM" width="1046">(단위 : 원, 주)</td>
+</tr>
+</tbody>
+</table>
+<table border="1" width="1434">
+<colgroup>
+<col width="149"/>
+<col width="113"/>
+<col width="137"/>
+<col width="243"/>
+<col width="63"/>
+<col width="71"/>
+<col width="71"/>
+<col width="63"/>
+<col width="71"/>
+<col width="48"/>
+<col width="93"/>
+<col width="145"/>
+<col width="71"/>
+<col width="48"/>
+<col width="48"/>
+</colgroup>
+<thead>
+<tr>
+<th align="CENTER" height="66" rowspan="2" width="149">부여<br/>받은자</th>
+<th align="CENTER" height="66" rowspan="2" width="113">관 계</th>
+<th align="CENTER" height="66" rowspan="2" width="137">부여일</th>
+<th align="CENTER" height="66" rowspan="2" width="243">부여방법</th>
+<th align="CENTER" height="66" rowspan="2" width="63">주식의<br/>종류</th>
+<th align="CENTER" height="66" rowspan="2" width="71">최초<br/>부여<br/>수량</th>
+<th align="CENTER" colspan="2" height="36" width="134">당기변동수량</th>
+<th align="CENTER" colspan="2" height="36" width="119">총변동수량</th>
+<th align="CENTER" height="66" rowspan="2" width="93">기말<br/>미행사수량</th>
+<th align="CENTER" height="66" rowspan="2" width="145">행사기간</th>
+<th align="CENTER" height="66" rowspan="2" width="71">행사<br/>가격</th>
+<th align="CENTER" height="66" rowspan="2" width="48">의무<br/>보유<br/>여부</th>
+<th align="CENTER" height="66" rowspan="2" width="48">의무<br/>보유<br/>기간</th>
+</tr>
+<tr>
+<th align="CENTER" height="20" width="71">행사</th>
+<th align="CENTER" height="20" width="63">취소</th>
+<th align="CENTER" height="20" width="71">행사</th>
+<th align="CENTER" height="20" width="48">취소</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="CENTER" height="20" width="149">윤석준</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2016년 11월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">120,000</td>
+<td align="RIGHT" height="20" width="71">120,000</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">120,000</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">-</td>
+<td align="CENTER" height="20" width="145">19.01.01~23.12.31</td>
+<td align="RIGHT" height="20" width="71">1,062</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">김신규</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2016년 11월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">88,000</td>
+<td align="RIGHT" height="20" width="71">88,000</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">88,000</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">-</td>
+<td align="CENTER" height="20" width="145">19.01.01~23.12.31</td>
+<td align="RIGHT" height="20" width="71">1,062</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO</td>
+<td align="CENTER" height="20" width="113">직원</td>
+<td align="CENTER" height="20" width="137">2016년 11월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">128,000</td>
+<td align="RIGHT" height="20" width="71">128,000</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">128,000</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">-</td>
+<td align="CENTER" height="20" width="145">19.01.01~23.12.31</td>
+<td align="RIGHT" height="20" width="71">1,062</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">박지원</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 10일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">15,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">15,000</td>
+<td align="CENTER" height="20" width="145">23.03.10~26.03.09</td>
+<td align="RIGHT" height="20" width="71">211,708</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">김태호</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 10일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">9,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">9,500</td>
+<td align="CENTER" height="20" width="145">23.03.10~26.03.09</td>
+<td align="RIGHT" height="20" width="71">211,708</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">이경준</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 10일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">7,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">7,500</td>
+<td align="CENTER" height="20" width="145">23.03.10~26.03.09</td>
+<td align="RIGHT" height="20" width="71">211,708</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">김동준</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 10일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">5,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">5,000</td>
+<td align="CENTER" height="20" width="145">23.03.10~26.03.09</td>
+<td align="RIGHT" height="20" width="71">211,708</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">이승석</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 10일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">5,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">5,000</td>
+<td align="CENTER" height="20" width="145">23.03.10~26.03.09</td>
+<td align="RIGHT" height="20" width="71">211,708</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO</td>
+<td align="CENTER" height="20" width="113">직원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 10일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">3,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">3,500</td>
+<td align="CENTER" height="20" width="145">23.03.10~26.03.09</td>
+<td align="RIGHT" height="20" width="71">211,708</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO 외 5명</td>
+<td align="CENTER" height="20" width="113">계열회사 임원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 10일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">32,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">32,500</td>
+<td align="CENTER" height="20" width="145">23.03.10~26.03.09</td>
+<td align="RIGHT" height="20" width="71">211,708</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO 외 2명</td>
+<td align="CENTER" height="20" width="113">계열회사 직원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 10일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">8,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">1,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">7,000</td>
+<td align="CENTER" height="20" width="145">23.03.10~26.03.09</td>
+<td align="RIGHT" height="20" width="71">211,708</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO 외 1명</td>
+<td align="CENTER" height="20" width="113">직원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 10일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">5,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">3,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">1,500</td>
+<td align="CENTER" height="20" width="145">23.03.10~26.03.09</td>
+<td align="RIGHT" height="20" width="71">211,708</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">이진형</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">7,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">7,500</td>
+<td align="CENTER" height="20" width="145">23.03.30~26.03.29</td>
+<td align="RIGHT" height="20" width="71">225,353</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO</td>
+<td align="CENTER" height="20" width="113">계열회사 임원</td>
+<td align="CENTER" height="20" width="137">2021년 03월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">15,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">15,000</td>
+<td align="CENTER" height="20" width="145">23.03.30~26.03.29</td>
+<td align="RIGHT" height="20" width="71">225,353</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">김태호</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 11월 03일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">9,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">9,500</td>
+<td align="CENTER" height="20" width="145">23.11.03~26.11.02</td>
+<td align="RIGHT" height="20" width="71">322,862</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">이진형</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 11월 03일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">7,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">7,500</td>
+<td align="CENTER" height="20" width="145">23.11.03~26.11.02</td>
+<td align="RIGHT" height="20" width="71">322,862</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">이경준</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 11월 03일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">7,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">7,500</td>
+<td align="CENTER" height="20" width="145">23.11.03~26.11.02</td>
+<td align="RIGHT" height="20" width="71">322,862</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">김동준</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 11월 03일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">5,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">5,000</td>
+<td align="CENTER" height="20" width="145">23.11.03~26.11.02</td>
+<td align="RIGHT" height="20" width="71">322,862</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">이승석</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 11월 03일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">5,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">5,000</td>
+<td align="CENTER" height="20" width="145">23.11.03~26.11.02</td>
+<td align="RIGHT" height="20" width="71">322,862</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO</td>
+<td align="CENTER" height="20" width="113">계열회사 임원</td>
+<td align="CENTER" height="20" width="137">2021년 11월 03일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">10,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">10,000</td>
+<td align="CENTER" height="20" width="145">23.11.03~26.11.02</td>
+<td align="RIGHT" height="20" width="71">322,862</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO 외 6명</td>
+<td align="CENTER" height="20" width="113">계열회사 임원</td>
+<td align="CENTER" height="20" width="137">2021년 11월 03일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">49,879</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">49,879</td>
+<td align="CENTER" height="20" width="145">23.11.03~26.11.02</td>
+<td align="RIGHT" height="20" width="71">322,862</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO 외 8명</td>
+<td align="CENTER" height="20" width="113">계열회사 직원</td>
+<td align="CENTER" height="20" width="137">2021년 11월 03일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">44,791</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">44,791</td>
+<td align="CENTER" height="20" width="145">23.11.03~26.11.02</td>
+<td align="RIGHT" height="20" width="71">322,862</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO 외 7명</td>
+<td align="CENTER" height="20" width="113">직원</td>
+<td align="CENTER" height="20" width="137">2021년 11월 03일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">25,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">10,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">15,000</td>
+<td align="CENTER" height="20" width="145">23.11.03~26.11.02</td>
+<td align="RIGHT" height="20" width="71">322,862</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">박지원</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 12월 16일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">15,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">15,000</td>
+<td align="CENTER" height="20" width="145">23.12.16~26.12.15</td>
+<td align="RIGHT" height="20" width="71">357,052</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">박영호</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 12월 16일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">1,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">1,500</td>
+<td align="CENTER" height="20" width="145">23.12.16~26.12.15</td>
+<td align="RIGHT" height="20" width="71">357,052</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">임수현</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 12월 16일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">1,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">1,500</td>
+<td align="CENTER" height="20" width="145">23.12.16~26.12.15</td>
+<td align="RIGHT" height="20" width="71">357,052</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">함윤식</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 12월 16일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">1,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">1,500</td>
+<td align="CENTER" height="20" width="145">23.12.16~26.12.15</td>
+<td align="RIGHT" height="20" width="71">357,052</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">Scott Samuel Braun</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2021년 12월 16일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">21,048</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">21,048</td>
+<td align="CENTER" height="20" width="145">23.12.16~26.12.15</td>
+<td align="RIGHT" height="20" width="71">357,052</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO</td>
+<td align="CENTER" height="20" width="113">계열회사 임원</td>
+<td align="CENTER" height="20" width="137">2022년 03월 10일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">6,735</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">6,735</td>
+<td align="CENTER" height="20" width="145">24.03.10~27.03.09</td>
+<td align="RIGHT" height="20" width="71">272,899</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">박지원</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2022년 03월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">20,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">20,000</td>
+<td align="CENTER" height="20" width="145">24.03.30~27.03.29</td>
+<td align="RIGHT" height="20" width="71">286,036</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">이미경</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2022년 03월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">1,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">1,500</td>
+<td align="CENTER" height="20" width="145">24.03.30~27.03.29</td>
+<td align="RIGHT" height="20" width="71">286,036</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">조백규</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2022년 03월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">1,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">1,500</td>
+<td align="CENTER" height="20" width="145">24.03.30~27.03.29</td>
+<td align="RIGHT" height="20" width="71">286,036</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">Scott Samuel Braun</td>
+<td align="CENTER" height="20" width="113">등기임원</td>
+<td align="CENTER" height="20" width="137">2022년 03월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">26,941</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">26,941</td>
+<td align="CENTER" height="20" width="145">24.03.30~27.03.29</td>
+<td align="RIGHT" height="20" width="71">286,036</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">김주영</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2022년 08월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">10,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">10,000</td>
+<td align="CENTER" height="20" width="145">24.08.30~27.08.29</td>
+<td align="RIGHT" height="20" width="71">172,041</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">정진수</td>
+<td align="CENTER" height="20" width="113">미등기임원</td>
+<td align="CENTER" height="20" width="137">2022년 08월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">15,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">15,000</td>
+<td align="CENTER" height="20" width="145">24.08.30~27.08.29</td>
+<td align="RIGHT" height="20" width="71">172,041</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO</td>
+<td align="CENTER" height="20" width="113">직원</td>
+<td align="CENTER" height="20" width="137">2022년 08월 30일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">3,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">3,500</td>
+<td align="CENTER" height="20" width="145">24.08.30~27.08.29</td>
+<td align="RIGHT" height="20" width="71">172,041</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO 외 1명</td>
+<td align="CENTER" height="20" width="113">직원</td>
+<td align="CENTER" height="20" width="137">2022년 09월 27일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">9,500</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">9,500</td>
+<td align="CENTER" height="20" width="145">24.09.27~27.09.26</td>
+<td align="RIGHT" height="20" width="71">172,041</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+<tr>
+<td align="CENTER" height="20" width="149">OOO</td>
+<td align="CENTER" height="20" width="113">직원</td>
+<td align="CENTER" height="20" width="137">2022년 11월 29일</td>
+<td align="CENTER" height="20" width="243">신주교부, 자기주식양도,차액지급</td>
+<td align="CENTER" height="20" width="63">보통주</td>
+<td align="RIGHT" height="20" width="71">3,000</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="63">-</td>
+<td align="RIGHT" height="20" width="71">-</td>
+<td align="RIGHT" height="20" width="48">-</td>
+<td align="RIGHT" height="20" width="93">3,000</td>
+<td align="CENTER" height="20" width="145">24.11.29~27.11.28</td>
+<td align="RIGHT" height="20" width="71">132,525</td>
+<td align="CENTER" height="20" width="48">X</td>
+<td align="CENTER" height="20" width="48">-</td>
+</tr>
+</tbody>
+</table>
+<table class="nb" width="1434">
+<colgroup>
+<col width="1434"/>
+</colgroup>
+<tbody>
+<tr>
+<td height="43" valign="TOP" width="1434">주1) 2020년 4월 29일 무상증자(증자비율 1,500%)에 따라 부여수량 및 행사가격이 변동되었으며, 상기표의 주식매수선택권은 이를 반영하였습니다.<br/>주2) 공시서류 작성기준일 직전 거래일(2022년 12월 29일) 현재 종가는 173,500원(액면가 500원)입니다.</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p class="pgbrk"></p>
+<p><br/></p>
+</body>
+</html>

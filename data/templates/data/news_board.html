@@ -1,0 +1,30 @@
+{% extends "common/Base_Board.html" %}
+{% load static %}
+{% block link_area %}
+<link rel="stylesheet" href="{% static 'single_pages/css/news.css' %}" media="screen">
+{% endblock %}
+{% block head_title %}News{% endblock %}
+    
+{% block contents %}
+<div class="container pb-5 my-5">
+    {% if news_list %}
+    <div>
+        {% for news in news_list %}
+            {% comment %} <div style="margin-bottom: 20px; border-bottom: 1px solid #ddd; padding-bottom: 10px;"> {% endcomment %}
+            <div class = "newsbox">
+                <img id = "image" src={{ news.img }}>
+                <h5 id = "title">{{ news.title }}</h5>
+                {% comment %} <img src={{ news.img }}> {% endcomment %}
+                <p>{{ news.description|truncatewords:30 }} </p>
+                <a href="{{ news.link }}" class="btn btn-secondary">Read More</a>
+            </div>
+        {% endfor %}
+    </div>
+{% endif %}
+</div>
+
+
+{% endblock contents %}
+
+{% block script_area %}
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends "common/Base_Board.html" %}
+{% load static %}
+{% block link_area %}
+<link rel="stylesheet" href="{% static 'single_pages/css/Bs/Bs_Contrac.css' %}" media="screen">
+{% endblock %}
+{% block head_title %}{{ menu_text|safe }}{% endblock %}
+
+{% block contents %}
+<div class='content-container'>
+    {{datas|safe}}
+</div>
+{% endblock contents %}
+{% block script_area %}
+<script src="{% static 'single_pages/js/Bs/Bs_Contrac.js' %}"></script>
+{% endblock %}

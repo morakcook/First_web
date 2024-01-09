@@ -1,0 +1,24 @@
+{% extends "common/Base_Board.html" %}
+{% load static %}
+{% block link_area %}
+<link rel="stylesheet" href="{% static 'single_pages/css/Fs/Fs_Iv.css' %}" media="screen">
+{% endblock %}
+{% block head_title %}{{ menu_text|safe }}{% endblock %}
+
+{% block contents %}
+<div id="btn1">
+
+</div>
+<div id="btn2">
+
+</div>
+<canvas id="myDynamicPieChart" width="400" height="400"></canvas>
+{% endblock contents %}
+{% block script_area %}
+<script>
+    var chart_title = "{{ menu_text|safe }}"
+    var chart_data = {{ datas|safe }};
+    console.log(chart_data)
+</script>
+<script src="{% static 'single_pages/js/Fs/Fs_Iv.js' %}"></script>
+{% endblock %}

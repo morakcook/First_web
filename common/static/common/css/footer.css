@@ -1,0 +1,10 @@
+footer{
+    width: 100%;
+    color: rgb(220, 220, 220);
+    font-size: 12px;
+    bottom: 0%;
+    background-color: rgb(180,180,180);
+    justify-content: center;
+    text-align: center;
+    /* font-family: 'Noto Sans', sans-serif; */
+}

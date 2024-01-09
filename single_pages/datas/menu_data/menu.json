@@ -1,0 +1,22 @@
+{
+    "Is": [
+        {"id": "Is_Sales", "text": "매출액 변화","key": "매출액"},
+        {"id": "Is_Cos", "text": "매출원가 변화","key": "매출원가"},
+        {"id": "Is_Exp", "text": "판매비와관리비 변화","key": "판매비와관리비"},
+        {"id": "Is_Tax", "text": "법인세비용 변화","key": "법인세비용(수익)"},
+        {"id": "Is_Netincome","text": "순이익 변화","key": "당기순이익(손실)"}
+           ],
+    "Fs": [
+        {"id": "Fs_Iv", "text": "투자분석","key": "투자분석"},
+        {"id": "Fs_Bs", "text": "재무상태표","key": "재무상태표"},
+        {"id": "Fs_Note", "text": "재무제표 주석","key": "포괄손익계산서"}
+        ],
+    "Em": [
+        {"id": "Em_Status", "text": "임직원 현황","key": "포괄손익계산서"},
+           {"id": "Em_Compensation", "text": "임원 보수","key": "포괄손익계산서"}
+           ],
+    "Bs": [
+        {"id": "Bs_Contrac", "text": "계약사항","key": "포괄손익계산서"},
+        {"id": "Bs_Artist", "text": "아티스트 현황","key": "포괄손익계산서"}
+        ]
+}

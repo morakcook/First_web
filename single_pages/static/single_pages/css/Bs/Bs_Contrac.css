@@ -1,0 +1,5 @@
+.content-container{
+    display: block;
+    justify-content: center; /* 수평 중앙 정렬 */
+    margin: 5%;
+}

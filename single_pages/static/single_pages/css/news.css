@@ -1,0 +1,44 @@
+
+  div.newsbox{
+    width: 420px;
+  }
+  
+  /* newsbox 스타일 조정 */
+  .newsbox {
+    display: inline-block;
+    margin: 0 7px 20px auto;
+    border: 1px solid #ddd;
+    padding: 30px;
+  }
+
+/* newsbox 내부 이미지 스타일 */
+ #image {
+    max-width: 250px;
+    height: 250px;
+    margin: 0 auto; /* 이미지를 가운데 정렬 */
+    display: block; /* 이미지를 가운데 정렬하기 위해 block 요소로 변경 */
+  }
+  
+  /* newsbox 제목 스타일 */
+  #title {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    max-height: 3em; /* 원하는 높이로 제한 */
+    overflow: hidden; /* 넘치는 내용 숨김 */
+    line-height: 1.5em; /* 한 줄의 높이를 지정 */
+  }
+  
+  /* 'Read More' 버튼 스타일 */
+  .btn-secondary {
+    width: 100%; /* 부모 요소에 맞게 가로 조절 */
+    padding: 10px; /* 버튼 내부 여백 설정 */
+    font-size: 16px; /* 버튼 글자 크기 설정 */
+  }
+
+  p{
+    max-height: 6em; /* 원하는 높이로 제한 */
+    overflow: hidden; /* 넘치는 내용 숨김 */
+    text-overflow: ellipsis; /* 생략 부호(...) 사용 */
+    line-height: 1.5em; /* 한 줄의 높이를 지정 */
+  }

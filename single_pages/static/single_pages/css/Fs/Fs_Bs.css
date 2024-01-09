@@ -1,0 +1,21 @@
+h1{
+}
+.table_text{
+    display: flex;
+    justify-content: center; /* 수평 중앙 정렬 */
+    margin: 5%;
+}
+.table_area{
+    display: flex;
+    justify-content: center; /* 수평 중앙 정렬 */
+    margin: 5%;
+}
+.main *{
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    text-align: center;
+}
+.head{
+    background-color: gray;
+}

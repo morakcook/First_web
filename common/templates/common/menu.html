@@ -1,0 +1,43 @@
+{% load static %}
+<link rel="stylesheet" href="{% static 'common/css/menu.css' %}" media="screen">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Gothic+Coding&family=Noto+Sans+KR:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Gothic+Coding&family=Noto+Sans+KR:wght@600&family=Noto+Sans:wght@700&family=Open+Sans:wght@800&display=swap" rel="stylesheet">
+
+<div id="nav-bar">
+    <input id="nav-toggle" type="checkbox"/>
+    <div id="nav-header"><a id="nav-title" href="/Board/">Main</a>
+      <label for="nav-toggle"><span id="nav-toggle-burger"></span></label>
+      <hr/>
+    </div>
+    <div id="nav-content">
+      {% for item in menu_items %}
+      <div class="nav-button"><img src="{% static 'common/images/menu_icon.png' %}" width=20px style='margin-right:15px'><a href="/Board/{{menu_dir}}/{{item.id}}/" style="padding:5px">{{item.text}}</a></div>
+      {% endfor %}
+      <hr/>
+    </div>
+    <div id="nav-footer">
+      <div id="nav-footer-heading">
+          {% if user.is_authenticated %} 
+          <div id="nav-footer-avatar"><img src="{% static 'common/images/free-icon-font-user-3917688.png' %}"/></div>
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> {{ user.username }} 
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" href="/accounts/logout/">
+                  Log Out
+                </a>
+            </div>
+          {% else %}
+            <div id="nav-footer-avatar"><img src="{% static 'common/images/free-icon-font-user-3917688.png' %}"/></div>
+            <a class="nav-link" href="#" data-toggle="modal" data-target="#loginModal">
+              Log In
+            </a>
+          {% endif %}
+
+      </div>
+    </div>
+  </div>
+  <script src="{% static 'common/js/menu.js' %}"></script>

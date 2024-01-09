@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+{% load static  %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'login/css/Login.css' %}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Gothic+Coding&family=Noto+Sans+KR:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/earlyaccess/notosanskr.css" rel="stylesheet">
+
+    <title>Login</title>
+
+    <style>
+        
+    </style>
+</head> 
+
+<body>
+
+    <div class = "intro">
+        <h6 id = "sub_name">Management Information System</h6>
+        <h2 id = "name">HYBE_RO</h2>
+    </div>
+    <form action='/Login/' method="POST">
+        {% csrf_token %}
+        <input type = "text" placeholder = " ID" class = id name="id">
+        <input type = "password" placeholder = " PW" class = pw name="pw">
+        <button type = "submit" class = "login_btn"><b>Login</b></button>
+    </form>
+    <button class = "btn-open-modal"><b>Signup</b></button>
+    <div class = "bg-video">
+        <video class = "content" autoplay muted loop>
+            <source src = "{% static 'login/images/hybe_labels.mp4'%}" type="video/mp4">
+        <video>
+    </div>
+    <div class="modal">
+        <div class="container">
+            <form action="/Sign_up/" method="Post" id="form" class="form">
+                {% csrf_token %}
+              <h2>Register With Us</h2>
+              <div class="form-control">
+                <label for="username">Username</label>
+                <input class='modal_input' type="text" id="username" name="username" placeholder="Enter username">
+              </div>
+              <div class="form-control">
+                <label for="email">Email</label>
+                <input class='modal_input' type="text" id="email" name="email" placeholder="Enter email">
+              </div>
+              <div class="form-control">
+                <label for="password">Password</label>
+                <input class='modal_input' type="password" id="password1" name="password1" placeholder="Enter password">
+              </div>
+              <div class="form-control">
+                <label for="password">Confirm Password</label>
+                <input class='modal_input' type="password" id="password2" name="password2" placeholder="Enter password again">
+              </div>
+              <button class='modal_button'>Submit</button>
+            </form>
+            <button class='modal_button' id="cancel_btn">취소</button>
+          </div>
+    </div>
+
+    <script type="module" src="{% static 'login/js/Login.js' %}"></script>
+    <script>
+        const modal = document.querySelector('.modal');
+        const btnOpenModal=document.querySelector('.btn-open-modal');
+        const btnCloseModal=document.getElementById('cancel_btn');
+    </script>
+</html>
