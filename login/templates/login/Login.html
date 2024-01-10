@@ -31,16 +31,15 @@
         <button type = "submit" class = "login_btn"><b>Login</b></button>
     </form>
     <button class = "btn-open-modal"><b>Signup</b></button>
-    <div class = "bg-video">
-        <video class = "content" autoplay muted loop>
-            <source src = "{% static 'login/images/hybe_labels.mp4'%}" type="video/mp4">
-        <video>
-    </div>
+    <div class="bg-video">
+      <img class="content" src="{% static 'login/images/i015690758052.gif' %}" alt="Your GIF">
+  </div>
+  
     <div class="modal">
         <div class="container">
             <form action="/Sign_up/" method="Post" id="form" class="form">
                 {% csrf_token %}
-              <h2>Register With Us</h2>
+              <h2>Welcome to HYBE_RO</h2>
               <div class="form-control">
                 <label for="username">Username</label>
                 <input class='modal_input' type="text" id="username" name="username" placeholder="Enter username">
