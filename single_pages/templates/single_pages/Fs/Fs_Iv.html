@@ -2,6 +2,12 @@
 {% load static %}
 {% block link_area %}
 <link rel="stylesheet" href="{% static 'single_pages/css/Fs/Fs_Iv.css' %}" media="screen">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Gothic+Coding&family=Noto+Sans+KR:wght@300&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/earlyaccess/notosanskr.css" rel="stylesheet">
+
 {% endblock %}
 {% block head_title %}{{ menu_text|safe }}{% endblock %}
 
@@ -9,16 +15,23 @@
 <div id="btn1">
 
 </div>
+
 <div id="btn2">
 
 </div>
-<canvas id="myDynamicPieChart" width="400" height="400"></canvas>
+
+<div id = "pie">
+    <canvas id="myDynamicPieChart"></canvas>
+</div>
+
 {% endblock contents %}
 {% block script_area %}
+
 <script>
     var chart_title = "{{ menu_text|safe }}"
     var chart_data = {{ datas|safe }};
     console.log(chart_data)
 </script>
+
 <script src="{% static 'single_pages/js/Fs/Fs_Iv.js' %}"></script>
 {% endblock %}

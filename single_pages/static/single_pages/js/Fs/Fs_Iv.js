@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
         addButton.setAttribute('data-index', index);
         buttonContainer.appendChild(addButton)
     };
+    
     for(index in chart_data[1]){
         // 버튼을 생성하고 추가할 div 요소를 가져옵니다.
         var buttonContainer = document.getElementById("btn2");
@@ -38,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
             labels: chart_data[2][0],
             datasets: [{
                 data: chart_data[2][1][0],  // 초기 데이터 사용
-                backgroundColor: ['red', 'blue'],  // 색상 설정
+                backgroundColor: ['rgb(172,182,189)', 'rgb(104,146,165)'],  // 색상 설정
             }]
         },
         options: {

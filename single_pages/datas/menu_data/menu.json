@@ -9,14 +9,17 @@
     "Fs": [
         {"id": "Fs_Iv", "text": "투자분석","key": "투자분석"},
         {"id": "Fs_Bs", "text": "재무상태표","key": "재무상태표"},
-        {"id": "Fs_Note", "text": "재무제표 주석","key": "포괄손익계산서"}
+        {"id": "Fs_Note", "text": "재무제표 주석","key": "재무제표 주석"}
         ],
     "Em": [
-        {"id": "Em_Status", "text": "임직원 현황","key": "포괄손익계산서"},
-           {"id": "Em_Compensation", "text": "임원 보수","key": "포괄손익계산서"}
+        {"id": "Em_Status", "text": "임직원 현황","key": "임직원 현황"},
+           {"id": "Em_Compensation", "text": "임원 보수","key": "임원 보수"}
            ],
     "Bs": [
-        {"id": "Bs_Contrac", "text": "계약사항","key": "포괄손익계산서"},
-        {"id": "Bs_Artist", "text": "아티스트 현황","key": "포괄손익계산서"}
-        ]
+        {"id": "Bs_Contrac", "text": "계약사항","key": "계약사항"},
+        {"id": "Bs_Artist", "text": "아티스트 현황","key": "아티스트 현황"}
+        ],
+    "":[
+        {"id": "board", "text": "메인보드","key": "메인보드"}
+    ]
 }

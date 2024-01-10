@@ -1,0 +1,80 @@
+/* 버튼 전체 적용 css 구간 */
+[data-index] {
+    width: 150px;
+    height: 40px;
+    border: 1px solid rgba(180,180,180,0.2);
+    border-radius: 5px;
+    box-shadow: 0 15px 35px rgba(180, 180, 180, 0.5);
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 17px;
+}
+
+[data-index]:hover{
+    color: white;
+    background-color: rgb(127,127,127);
+    transform: scale(1.05); /* 약간 확대되는 효과 */
+    cursor: pointer; /* 커서 모양 변경 */
+    background-image: linear-gradient(315deg, #aaa 0%, #888 80%);
+}
+
+
+/* pie chart css 구간 */
+#pie{
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    top: 190px;
+    left: 350px;
+}
+
+
+/* chart-button css 구간 */
+.chart-button[data-index="0"] {
+    position: absolute;
+    top: 120px;
+    right: 380px;
+}
+
+.chart-button[data-index="1"] {
+    position: absolute;
+    top: 120px;
+    right: 215px;
+}
+
+.chart-button[data-index="2"] {
+    position: absolute;
+    top: 120px;
+    right: 50px;
+}
+
+
+/* label-button css 구간 */
+.label-button[data-index="2"] {
+    position: absolute;
+    top: 185px;
+    right: 710px;
+}
+
+.label-button[data-index="3"] {
+    position: absolute;
+    top: 185px;
+    right: 545px;
+}
+
+.label-button[data-index="4"] {
+    position: absolute;
+    top: 185px;
+    right: 380px;
+}
+
+.label-button[data-index="5"] {
+    position: absolute;
+    top: 185px;
+    right: 215px;
+}
+
+.label-button[data-index="6"] {
+    position: absolute;
+    top: 185px;
+    right: 50px;
+}

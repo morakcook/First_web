@@ -3,9 +3,90 @@
 {% block link_area %}
 <link rel="stylesheet" href="{% static 'single_pages/css/Board.css' %}" media="screen">
 {% endblock %}
-{% block head_title %}Board{% endblock %}
+{% block head_title %}{{ menu_text|safe }}{% endblock %}
     
-{% block contents %}{% endblock contents %}
+{% block contents %}
+
+<div class="boards">
+    <div class="high_board" id="carousel_board">
+        {% include "single_pages/sub/youtube_carousel.html" %}
+    </div>
+
+
+
+    <div class="high_board" id="chart_board">
+        <div class='head_container1'>
+            <div>
+                <h3>연결포괄손익계산서</h3>
+            </div>
+            <div>
+                <h3>게시판최신글</h3>
+            </div>  
+        </div>
+
+        <div class="row_board" id="Is_board">
+            <canvas class='chart_area' id="myChart" width="400" height="400"></canvas>
+        </div>
+
+        <div class="row_board" id="Free_board">
+            <table>
+                {% for post in datas.5 %}
+                    <tr>
+                        <td>
+                            <h6><a href="{{ post.get_absolute_url }}"class="text-decoration-none text-dark" id="news_item">{{ post.title }}</a></h6>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </table>         
+        </div>
+    </div>
+
+
+    <div class="high_board" id="info_board">
+        <div class='head_container2'>
+            <div>
+                <h3>투자분석</h3>
+            </div>
+            <div>
+                <h3>최신기사</h3>
+            </div>  
+        </div>
+        <div class="row_board" id="Fs_board">
+            <div id = "pie">
+                <canvas id="myDynamicPieChart"></canvas>
+            </div>
+            <div class="btn_area">
+                <div id="btn1">
+                </div>
+                <div id="btn2">
+                </div>
+            </div>
+        </div>
+    
+        
+
+
+        <div class="row_board" id="News_board">
+            <table>
+                {% for post in datas.4 %}
+                <tr>
+                    <td>
+                        <h6><a href="{{ post.link }}"class="text-decoration-none text-dark" id="post_item">{{ post.title }}</a></h6>
+                    </td>
+                </tr>
+                {% endfor %}
+            </table>    
+        </div>   
+    </div>
+</div>
+{% endblock contents %}
 
 {% block script_area %}
+<script>
+    var labels = {{ datas.0|safe }}
+    var chart_title = {{ datas.1|safe }}
+    var datas = {{ datas.2|safe }}
+    var one_chart_data = {{ datas.3|safe }};
+</script>
+<script src="{% static 'single_pages/js/board.js' %}"></script>
 {% endblock %}

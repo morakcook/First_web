@@ -1,4 +1,16 @@
-crtfc_key = '3d27cd3922990eb191ffbd3ae38d6b0a47a0cb6c'
+# # 1. 다트 api 에서 api 키를 발급 받기
+# https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS001&apiId=2019018
+
+# # 2. 다트 개발가이드에서 고유번호 요청 url 확인
+# https://opendart.fss.or.kr/guide/main.do?apiGrpCd=DS001
+
+
+# # 3. 개발자 가이드에서 필요한 코드 확인하기
+# https://dart-fss.readthedocs.io/en/latest/dart_search.html
+
+
+
+crtfc_key = 'tell_me'
  
 import requests 
 import pandas as pd 

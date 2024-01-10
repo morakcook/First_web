@@ -8,13 +8,13 @@ def find_data(chart,param):
         json_data = json.load(f)
     for i in range(int(len(json_data['list']))):
         if json_data['list'][i]['sj_div'] == chart and json_data['list'][i]['account_nm'] == param:
-            return [json_data['list'][i]['thstrm_amount'], json_data['list'][i]['frmtrm_amount'], json_data['list'][i]['bfefrmtrm_amount']]
+            return [json_data['list'][i]['bfefrmtrm_amount'], json_data['list'][i]['frmtrm_amount'], json_data['list'][i]['thstrm_amount']]
 
 def find_label():
     
     with open(f'{path}/single_pages/datas/hybe_data/hybe2023.json', 'r', encoding='utf-8') as f:
         json_data = json.load(f)
-        return [json_data['list'][0]['thstrm_nm'],json_data['list'][0]['frmtrm_nm'],json_data['list'][0]['bfefrmtrm_nm']]
+        return [json_data['list'][0]['bfefrmtrm_nm'],json_data['list'][0]['frmtrm_nm'],json_data['list'][0]['thstrm_nm']]
 
 def find_BS():
     BS_dict = {}

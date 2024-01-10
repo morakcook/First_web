@@ -1,7 +1,7 @@
 import requests
 
-# API 요청 URL  하이브 고유번호를 찾아서 입력 2023년 4월에 공시된 사업보고서, 2022년 18기, 2021년 17기, 2020년 16기
-url = 'https://opendart.fss.or.kr/api/fnlttSinglAcntAll.json?crtfc_key=3d27cd3922990eb191ffbd3ae38d6b0a47a0cb6c&corp_code=01204056&bsns_year=2022&reprt_code=11011&fs_div=CFS'
+# API 요청 URL  하이브 고유번호를 찾아서 입력 2023년 4월에 공시된 사업보고서, 최근3개년 18기,17기,16기
+url = 'https://opendart.fss.or.kr/api/fnlttSinglAcntAll.json?crtfc_key=tell_me&corp_code=01204056&bsns_year=2022&reprt_code=11011&fs_div=CFS'
 
 # HTTP 요청을 보내어 응답 받기
 response = requests.get(url)

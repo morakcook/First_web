@@ -8,8 +8,13 @@ from bs4 import BeautifulSoup
 import openai
 from tqdm import tqdm
 import time
-import concurrent.futures
+
+# 다수의 작업을 병렬로 실행할 수 있게하는 모듈
+import concurrent.futures                        
 import os
+
+
+# https://platform.openai.com/docs/api-reference 에서 gtp api 발급받기 최소 5달러 결제해야함
 
 openai.api_key = "secret_tell_me"
 
@@ -95,7 +100,7 @@ def process_annotation(annotation, index):
 
 all_annotations = [주석1, 주석2, 주석3, 주석4, 주석5, 주석6, 주석7, 주석8, 주석9, 주석10, 주석11]
 
-# ThreadPoolExecutor를 사용하여 각 주석을 병렬로 처리
+# concurrent.futures의 ThreadPoolExecutor 클래스를 사용하여 각 주석을 병렬로 처리
 with concurrent.futures.ThreadPoolExecutor() as executor:
     futures = [executor.submit(process_annotation, annotation, i) for i, annotation in enumerate(all_annotations, start=1)]
     for future in concurrent.futures.as_completed(futures):

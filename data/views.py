@@ -3,6 +3,10 @@ import requests
 from bs4 import BeautifulSoup
 
 def news_search(request):
+    news_list = get_data()
+    return render(request, 'data/news_board.html', {'news_list': news_list})
+
+def get_data():
     news_list =[]
 
     url = f"https://search.naver.com/search.naver?where=news&sm=tab_jum&query=하이브"
@@ -18,4 +22,4 @@ def news_search(request):
         #관련 뉴스 아이템의 설명 추출
         description = news_item.find_next_sibling('div', class_='news_dsc').get_text(strip=True)
         news_list.append({'title': title, 'link': link, 'description': description, 'img':img})
-    return render(request, 'data/news_board.html', {'news_list': news_list})
+    return news_list
