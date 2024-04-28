@@ -5,7 +5,11 @@
 
 
 ## 진행 요소:
-
+### 사용 요소:
+    1. vscode: 기본 편집기입니다.
+    2. python: 진행 언어 입니다.
+    3. Django: 사용한 프레임워크 입니다.
+    
 ### 메뉴 구성
 
 - 연결 포괄손익계산서(Statement of comprehensive income) 분석
